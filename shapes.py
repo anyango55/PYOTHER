@@ -50,10 +50,12 @@ class Sphere:
     def surface_area(self):
             radius=self.radius
             A=(4(22/7*radius*radius))
+            print(A)
 
     def volume(self):
             radius=self.radius
             V=(4/3(22/7*radius*radius*radius))
+            print(v)
 
 
 
